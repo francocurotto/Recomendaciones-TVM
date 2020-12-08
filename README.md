@@ -29,7 +29,7 @@
 | S1E6     | Diez Razones para Borrar tus Redes Sociales de Inmediato               | 2018      | Libro          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E1     | Un Veterano de Tres Guerras                                            | 2018      | Libro          | Buffy        |
-| S2E1     | Sandman                                                                | 1989-1966 | Comic          | Tomás        |
+| S2E1     | Sandman                                                                | 1989-1996 | Comic          | Tomás        |
 | S2E1     | The Boys                                                               | 2019      | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E2     | Fuera de Este Mundo                                                    | 2019      | Festival       | Buffy        |
