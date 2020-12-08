@@ -1,3 +1,5 @@
+Ésta es una compilación de todas las "recomendaciones con amor" hechas en el podcast [Tomás Va a Morir](https://open.spotify.com/show/6U02wirujU8zNsDQcbPJhS).
+
 | Capítulo | Recomendación                                                          | Año       | Medio          | Recomendador |
 |----------|------------------------------------------------------------------------|-----------|----------------|--------------|
 | S1E1     | Touching the Void                                                      | 2003      | Película       | Buffy        |
@@ -93,7 +95,7 @@
 | S3E7     | Vivo, Lius Miguel                                                      | 2000      | Álbum          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E8     | Blade Runner                                                           | 1982      | Película       | Buffy        |
-| S3E8     | Tiger King                                                             | 2020      | Documentary    | Tomás        |
+| S3E8     | Tiger King                                                             | 2020      | Documental     | Tomás        |
 | S3E8     | Factfulness                                                            | 2018      | Libro          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E9     | Cita con Rama                                                          | 1972      | Libro          | Buffy        |
@@ -138,8 +140,10 @@
 |          |                                                                        |           |                |              |
 | S3E29    | Fire Force                                                             | 2019-     | Anime          | Tomás        |
 | S3E29    | La Historia Interminable                                               | 1979      | Libro          | Buffy        |
-| S3E29    | SAD (Lista de Spotify)                                                 | -         | Playlist       | Edo          |
+| S3E29    | SAD                                                                    | -         | Lista Spotify  | Edo          |
 |          |                                                                        |           |                |              |
 | S3E31    | The Secret Life of Walter Mitty                                        | 2013      | Película       | Buffy        |
 | S3E31    | My Octopus Teacher                                                     | 2020      | Documental     | Tomás        |
 | S3E31    | Succession                                                             | 2018      | Serie          | Edo          |
+
+*: Ya había sido recomendado en el Tiny Show
