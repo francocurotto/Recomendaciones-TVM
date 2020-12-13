@@ -145,5 +145,9 @@
 | S3E31    | The Secret Life of Walter Mitty                                        | 2013      | Película       | Buffy        |
 | S3E31    | My Octopus Teacher                                                     | 2020      | Documental     | Tomás        |
 | S3E31    | Succession                                                             | 2018      | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| S3E34    | Believe,  Andrea Bocelli                                               | 2020      | Álbum          | Tomás        |
+| S3E34    | Kurzgesagt                                                             | 2013      | Canal Youtube  | Buffy        |
+| S3E34    | Los 80                                                                 | 2008-2014 | Serie          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
