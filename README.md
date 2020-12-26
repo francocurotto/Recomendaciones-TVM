@@ -91,7 +91,7 @@
 | S3E5     | Barry\*                                                                | 2018-     | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E7     | Rick and Morty                                                         | 2013-     | Serie          | Buffy        |
-| S3E7     | El Hoyo                                                                | 2019      | Serie          | Tomás        |
+| S3E7     | El Hoyo                                                                | 2019      | Película       | Tomás        |
 | S3E7     | Vivo, Lius Miguel                                                      | 2000      | Álbum          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E8     | Blade Runner                                                           | 1982      | Película       | Buffy        |
