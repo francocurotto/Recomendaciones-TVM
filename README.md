@@ -149,5 +149,9 @@
 | S3E34    | Believe,  Andrea Bocelli                                               | 2020      | Álbum          | Tomás        |
 | S3E34    | Kurzgesagt                                                             | 2013      | Canal Youtube  | Buffy        |
 | S3E34    | Los 80                                                                 | 2008-2014 | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| S3E35    | Utopoia                                                                | 2020      | Serie          | Tomás        |
+| S3E35    | Tenet                                                                  | 2020      | Película       | Buffy        |
+| S3E35    | Future Nostalgia                                                       | 2020      | Álbum          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
