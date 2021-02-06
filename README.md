@@ -154,7 +154,7 @@
 | S3E35    | Tenet                                                                  | 2020      | Película       | Buffy        |
 | S3E35    | Future Nostalgia                                                       | 2020      | Álbum          | Edo          |
 |          |                                                                        |           |                |              |
-| S4E02    | Lorena McKennitt                                                       | -         | Cantante       | Buffy        |
+| S4E02    | Loreena McKennitt                                                      | -         | Cantante       | Buffy        |
 | S4E02    | The Visit                                                              | 1991      | Álbum          | Buffy        |
 | S4E02    | El Sheriff de Babilonia                                                | 2015-2017 | Comic          | Tomás        |
 | S4E02    | Tiny Desk                                                              | 2008-     | Conciertos     | Edo          |
