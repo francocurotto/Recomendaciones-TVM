@@ -158,5 +158,9 @@
 | S4E02    | The Visit                                                              | 1991      | Álbum          | Buffy        |
 | S4E02    | El Sheriff de Babilonia                                                | 2015-2017 | Comic          | Tomás        |
 | S4E02    | Tiny Desk                                                              | 2008-     | Conciertos     | Edo          |
+|          |                                                                        |           |                |              |
+| S6E04    | Caso 63                                                                | 2020      | Podcast        | Buffy        |
+| S6E04    | Jujutsu Kaisen                                                         | 2020-     | Anime          | Tomás        |
+| S6E04    | Pase VIP Universal Studios Hollywood                                   | -         | Pase VIP       | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
