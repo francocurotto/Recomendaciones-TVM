@@ -159,8 +159,12 @@
 | S4E02    | El Sheriff de Babilonia                                                | 2015-2017 | Comic          | Tomás        |
 | S4E02    | Tiny Desk                                                              | 2008-     | Conciertos     | Edo          |
 |          |                                                                        |           |                |              |
-| S6E04    | Caso 63                                                                | 2020      | Podcast        | Buffy        |
-| S6E04    | Jujutsu Kaisen                                                         | 2020-     | Anime          | Tomás        |
-| S6E04    | Pase VIP Universal Studios Hollywood                                   | -         | Pase VIP       | Edo          |
+| S4E06    | Caso 63                                                                | 2020      | Podcast        | Buffy        |
+| S4E06    | Jujutsu Kaisen                                                         | 2020-     | Anime          | Tomás        |
+| S4E06    | Pase VIP Universal Studios Hollywood                                   | -         | Pase VIP       | Edo          |
+|          |                                                                        |           |                |              |
+| S4E07    | Usar reloj de pulsera (no smartwatch)                                  | -         | Objeto         | Buffy        |
+| S4E07    | Thus Spoke Kishibe Rohan                                               | 2017-2020 | Anime          | Tomás        |
+| S4E07    | Gira en Moto Sur 2020                                                  | 2021      | Documental     | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
