@@ -92,7 +92,7 @@
 |          |                                                                        |           |                |              |
 | S3E7     | Rick and Morty                                                         | 2013-     | Serie          | Buffy        |
 | S3E7     | El Hoyo                                                                | 2019      | Película       | Tomás        |
-| S3E7     | Vivo, Lius Miguel                                                      | 2000      | Álbum          | Edo          |
+| S3E7     | Vivo, Luis Miguel                                                      | 2000      | Álbum          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E8     | Blade Runner                                                           | 1982      | Película       | Buffy        |
 | S3E8     | Tiger King                                                             | 2020      | Documental     | Tomás        |
