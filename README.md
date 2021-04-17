@@ -173,6 +173,6 @@
 | S4E11    | Roberttson                                                             | -         | Streamer       | Tomás        |
 | S4E11    | Trilogía Arturo Gatti vs Micky Ward                                    | 2002-2003 | Pelea Boxeo    | Edo          |
 | S4E11    | El Abismo - Bob Esponja                                                | 2000      | Serie          | Edo          |
-| S4E11    | Kudai                                                                  | 1999      | Banda          | Edo          |
+| S4E11    | Kudai                                                                  | 1999-     | Banda          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
