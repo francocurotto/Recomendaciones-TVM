@@ -166,5 +166,13 @@
 | S4E07    | Usar reloj de pulsera (no smartwatch)                                  | -         | Objeto         | Buffy        |
 | S4E07    | Thus Spoke Kishibe Rohan                                               | 2017-2020 | Anime          | Tomás        |
 | S4E07    | Gira en Moto Sur 2020                                                  | 2021      | Documental     | Edo          |
+|          |                                                                        |           |                |              |
+| S4E11    | Diamantes de Sange                                                     | 2006      | Película       | Buffy        |
+| S4E11    | Lágrimas de Sol                                                        | 2003      | Película       | Buffy        |
+| S4E11    | Hotel Rwanda                                                           | 2004      | Película       | Buffy        |
+| S4E11    | Roberttson                                                             | -         | Streamer       | Tomás        |
+| S4E11    | Trilogía Arturo Gatti vs Micky Ward                                    | 2002-2003 | Pelea Boxeo    | Edo          |
+| S4E11    | El Abismo - Bob Esponja                                                | 2000      | Serie          | Edo          |
+| S4E11    | Kudai                                                                  | 1999      | Banda          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
