@@ -174,5 +174,9 @@
 | S4E11    | Trilogía Arturo Gatti vs Micky Ward                                    | 2002-2003 | Pelea Boxeo    | Edo          |
 | S4E11    | El Abismo - Bob Esponja                                                | 2000      | Serie          | Edo          |
 | S4E11    | Kudai                                                                  | 1999-     | Banda          | Edo          |
+|          |                                                                        |           |                |              |
+| S4E12    | Ghost of Tsushima                                                      | 2020      | Video Juego    | Tomás        |
+| S4E12    | Motivando A La Yal!                                                    | 2004      | Álbum          | Edo          |
+| S4E12    | El Arte de la Guerra Pasatiempos Estratégicos                          | 2019      | Libro          | Buffy        |
 
 *: Ya había sido recomendado en el Tiny Show
