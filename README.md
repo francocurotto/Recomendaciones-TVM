@@ -178,5 +178,9 @@
 | S4E12    | Ghost of Tsushima                                                      | 2020      | Video Juego    | Tomás        |
 | S4E12    | Motivando A La Yal!                                                    | 2004      | Álbum          | Edo          |
 | S4E12    | El Arte de la Guerra Pasatiempos Estratégicos                          | 2019      | Libro          | Buffy        |
+|          |                                                                        |           |                |              |
+| S4E17    | Invincible                                                             | 2021-     | Serie          | Tomás        |
+| S4E17    | MTV Unplugged                                                          | 1989-     | Conciertos     | Buffy        |
+|          | Mare of Easttown                                                       | 2021      | Serie          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
