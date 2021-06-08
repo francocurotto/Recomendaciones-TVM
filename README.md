@@ -167,7 +167,7 @@
 | S4E07    | Thus Spoke Kishibe Rohan                                               | 2017-2020 | Anime          | Tomás        |
 | S4E07    | Gira en Moto Sur 2020                                                  | 2021      | Documental     | Edo          |
 |          |                                                                        |           |                |              |
-| S4E11    | Diamantes de Sange                                                     | 2006      | Película       | Buffy        |
+| S4E11    | Diamantes de Sangre                                                    | 2006      | Película       | Buffy        |
 | S4E11    | Lágrimas de Sol                                                        | 2003      | Película       | Buffy        |
 | S4E11    | Hotel Rwanda                                                           | 2004      | Película       | Buffy        |
 | S4E11    | Roberttson                                                             | -         | Streamer       | Tomás        |
