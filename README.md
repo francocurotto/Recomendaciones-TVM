@@ -181,6 +181,10 @@
 |          |                                                                        |           |                |              |
 | S4E17    | Invincible                                                             | 2021-     | Serie          | Tomás        |
 | S4E17    | MTV Unplugged                                                          | 1989-     | Conciertos     | Buffy        |
-|          | Mare of Easttown                                                       | 2021      | Serie          | Edo          |
+| S4E17    | Mare of Easttown                                                       | 2021      | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| S4E20    | diferenciador.com                                                      | -         | Página Web     | Edo          |
+| S4E20    | Sweet Tooth                                                            | 2021-     | Serie          | Tomás        |
+| S4E20    | Los Orígenes del Orden Político                                        | 2011      | Libro          | Buffy        |
 
 *: Ya había sido recomendado en el Tiny Show
