@@ -186,5 +186,9 @@
 | S4E20    | diferenciador.com                                                      | -         | Página Web     | Edo          |
 | S4E20    | Sweet Tooth                                                            | 2021-     | Serie          | Tomás        |
 | S4E20    | Los Orígenes del Orden Político                                        | 2011      | Libro          | Buffy        |
+|          |                                                                        |           |                |              |
+| S4E25    | vocalremover.org                                                       | -         | Página Web     | Buffy        |
+| S4E25    | La Sedicción de las Palabras                                           | 2000      | Libro          | Edo          |
+| S4E25    | Raised by Wolves                                                       | 2020      | Serie          | Tomás        |
 
 *: Ya había sido recomendado en el Tiny Show
