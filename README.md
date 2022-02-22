@@ -190,5 +190,12 @@
 | S4E25    | vocalremover.org                                                       | -         | Página Web     | Buffy        |
 | S4E25    | La Sedicción de las Palabras                                           | 2000      | Libro          | Edo          |
 | S4E25    | Raised by Wolves                                                       | 2020      | Serie          | Tomás        |
+|          |                                                                        |           |                |              |
+| S5E10    | Bliss                                                                  | 2021      | Película       | Tomás        |
+| S5E10    | Eddie the Eagle                                                        | 2016      | Película       | Buffy        |
+| S5E10    | Atlanta                                                                | 2016-     | Serie          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
+
+### TODO
+- añadir episodios de YouTube
