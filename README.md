@@ -194,6 +194,10 @@
 | S5E10    | Bliss                                                                  | 2021      | Película       | Tomás        |
 | S5E10    | Eddie the Eagle                                                        | 2016      | Película       | Buffy        |
 | S5E10    | Atlanta                                                                | 2016-     | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| S5E13    | SuiteSound Music                                                       | 2020-     | Canal YouTube  | Buffy        |
+| S5E13    | The Orbital Children                                                   | 2022      | Anime          | Tomás        |
+| S5E13    | Nahuel Blanco                                                          | 2021      | Álbum Jazz     | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
 
