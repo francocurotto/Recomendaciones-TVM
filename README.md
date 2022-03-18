@@ -191,6 +191,15 @@
 | S4E25    | La Sedicción de las Palabras                                           | 2000      | Libro          | Edo          |
 | S4E25    | Raised by Wolves                                                       | 2020      | Serie          | Tomás        |
 |          |                                                                        |           |                |              |
+| YT#1     | Tokyo Revengers                                                        | 2021      | Anime          | Tomás        |
+| YT#1     | COLD                                                                   | 2012      | Documental     | Buffy        |
+| YT#1     | Pufferfish 'crop circles' - Life Story: Episode 5 preview - BBC One    | 2014      | Video Youtube  | Edo          |
+|          |                                                                        |           |                |              |
+| YT#2     | Stellarium                                                             | 2001      | Software       | Buffy        |
+| YT#2     | Colonia Dignidad Una Secta Alemana en Chile                            | 2021      | Serie          | Tomás        |
+| YT#2     | El Ocaso de la Democracia                                              | 2020      | Libro          | Edo          |
+| YT#2     | Facha: cómo funciona el fascismo y cómo ha entrado en tu vida          | 2018      | Libro          | Edo          |
+|          |                                                                        |           |                |              |
 | S5E10    | Bliss                                                                  | 2021      | Película       | Tomás        |
 | S5E10    | Eddie the Eagle                                                        | 2016      | Película       | Buffy        |
 | S5E10    | Atlanta                                                                | 2016-     | Serie          | Edo          |
@@ -198,8 +207,9 @@
 | S5E13    | SuiteSound Music                                                       | 2020-     | Canal YouTube  | Buffy        |
 | S5E13    | The Orbital Children                                                   | 2022      | Anime          | Tomás        |
 | S5E13    | Nahuel Blanco                                                          | 2021      | Álbum Jazz     | Edo          |
+|          |                                                                        |           |                |              |
+| S5E14    | Peace Maker                                                            | 2022-     | Serie          | Tomás        |
+| S5E14    | Ambient Calm de películas                                              | -         | Género Música  | Buffy        |
+| S5E14    | Pulp                                                                   | 2020      | Cómic          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
-
-### TODO
-- añadir episodios de YouTube
