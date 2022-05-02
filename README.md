@@ -221,5 +221,9 @@
 | S5E20    | Ousama Ranking                                                         | 2021-2022 | Anime          | Tomás        |
 | S5E20    | Drive my Car                                                           | 2021      | Película       | M. Fernando  |
 | S5E20    | La Risa Caníbal                                                        | 2016      | Libro          | Edo          |
+|          |                                                                        |           |                |              |
+| S5E21    | Portal                                                                 | 2007      | Video Juego    | Buffy        |
+| S5E21    | Portico Quartet                                                        | 2005-     | Banda Musical  | Edo          |
+| S5E21    | Exploding Kittens                                                      | 2015      | Juego Cartas   | Tomás        |
 
 *: Ya había sido recomendado en el Tiny Show
