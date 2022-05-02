@@ -215,5 +215,11 @@
 | S5E19    | Chrono Cross                                                           | 1999      | Video Juego    | Tomás        |
 | S5E19    | Hacer declaración de renta                                             | -         | Acción Cívica  | Buffy        |
 | S5E19    | Recorrido de micro D17                                                 | -         | Ruta Micro     | Edo          |
+|          |                                                                        |           |                |              |
+| S5E20    | El Marino                                                              | -         | Cantina        | Wilo         |
+| S5E20    | Prisioneros de la Geografía                                            | 2017      | Libro          | Buffy        |
+| S5E20    | Ousama Ranking                                                         | 2021-2022 | Anime          | Tomás        |
+| S5E20    | Drive my Car                                                           | 2021      | Película       | M. Fernando  |
+| S5E20    | La Risa Caníbal                                                        | 2016      | Libro          | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
