@@ -173,7 +173,7 @@
 | S4E11    | Roberttson                                                             | -         | Streamer       | Tomás        |
 | S4E11    | Trilogía Arturo Gatti vs Micky Ward                                    | 2002-2003 | Pelea Boxeo    | Edo          |
 | S4E11    | El Abismo - Bob Esponja                                                | 2000      | Serie          | Edo          |
-| S4E11    | Kudai                                                                  | 1999-     | Banda          | Edo          |
+| S4E11    | Kudai                                                                  | 1999-     | Banda Musical  | Edo          |
 |          |                                                                        |           |                |              |
 | S4E12    | Ghost of Tsushima                                                      | 2020      | Video Juego    | Tomás        |
 | S4E12    | Motivando A La Yal!                                                    | 2004      | Álbum          | Edo          |
@@ -225,5 +225,10 @@
 | S5E21    | Portal                                                                 | 2007      | Video Juego    | Buffy        |
 | S5E21    | Portico Quartet                                                        | 2005-     | Banda Musical  | Edo          |
 | S5E21    | Exploding Kittens                                                      | 2015      | Juego Cartas   | Tomás        |
+|          |                                                                        |           |                |              |
+| S5E22    | Escape Cube                                                            | 2015-2020 | Video Juego    | Buffy        |
+| S5E22    | Lo comido y lo bailado                                                 | -         | Instagram      | Buffy        |
+| S5E22    | Old Enough!                                                            | 1991-     | Serie          | Tomás        |
+| S5E22    | Hermanos Gutiérrez                                                     | 2017      | Banda Musical  | Edo          |
 
 *: Ya había sido recomendado en el Tiny Show
