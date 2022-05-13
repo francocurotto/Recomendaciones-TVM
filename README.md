@@ -226,7 +226,7 @@
 | S5E21    | Portico Quartet                                                        | 2005-     | Banda Musical  | Edo          |
 | S5E21    | Exploding Kittens                                                      | 2015      | Juego Cartas   | Tomás        |
 |          |                                                                        |           |                |              |
-| S5E22    | Escape Cube                                                            | 2015-2020 | Video Juego    | Buffy        |
+| S5E22    | Cube Escape                                                            | 2015-2020 | Video Juego    | Buffy        |
 | S5E22    | Lo comido y lo bailado                                                 | -         | Instagram      | Buffy        |
 | S5E22    | Old Enough!                                                            | 1991-     | Serie          | Tomás        |
 | S5E22    | Hermanos Gutiérrez                                                     | 2017      | Banda Musical  | Edo          |
