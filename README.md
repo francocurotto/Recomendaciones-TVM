@@ -212,7 +212,7 @@
 | S5E14    | Ambient Calm de películas                                              | -         | Género Música  | Buffy        |
 | S5E14    | Pulp                                                                   | 2020      | Cómic          | Edo          |
 |          |                                                                        |           |                |              |
-| S5E19    | Chrono Cross                                                           | 1999      | Video Juego    | Tomás        |
+| S5E19    | Chrono Cross: The Radical Dreamers Edition                             | 2022      | Video Juego    | Tomás        |
 | S5E19    | Hacer declaración de renta                                             | -         | Acción Cívica  | Buffy        |
 | S5E19    | Recorrido de micro D17                                                 | -         | Ruta Micro     | Edo          |
 |          |                                                                        |           |                |              |
