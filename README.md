@@ -230,5 +230,9 @@
 | S5E22    | Lo comido y lo bailado                                                 | -         | Instagram      | Buffy        |
 | S5E22    | Old Enough!                                                            | 1991-     | Serie          | Tomás        |
 | S5E22    | Hermanos Gutiérrez                                                     | 2017      | Banda Musical  | Edo          |
-
+|          |                                                                        |           |                |              |
+| S5E27    | Horario de verano                                                      | 1946      | Cambio Horario | Buffy        |
+| S5E27    | Servant                                                                | 2019-     | Serie          | Tomás        |
+| S5E27    | ¿Soy yo normal?                                                        | 2022      | Libro          | Edo          |
+        
 *: Ya había sido recomendado en el Tiny Show
