@@ -234,5 +234,9 @@
 | S5E27    | Horario de verano                                                      | 1946      | Cambio Horario | Buffy        |
 | S5E27    | Servant                                                                | 2019-     | Serie          | Tomás        |
 | S5E27    | ¿Soy yo normal?                                                        | 2022      | Libro          | Edo          |
+|          |                                                                        |           |                |              |
+| S5E28    | Severance                                                              | 2022-     | Serie          | Tomás        |
+| S5E28    | Top Gun: Maverick                                                      | 2022      | Película       | Buffy        |
+| S5E28    | Ted Lasso                                                              | 2020-     | Serie          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
