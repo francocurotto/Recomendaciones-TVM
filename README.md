@@ -238,5 +238,9 @@
 | S5E28    | Severance                                                              | 2022-     | Serie          | Tomás        |
 | S5E28    | Top Gun: Maverick                                                      | 2022      | Película       | Buffy        |
 | S5E28    | Ted Lasso                                                              | 2020-     | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| YT#3     | Tetris Effect                                                          | 2018      | Video Juego    | Tomás        |
+| YT#3     | Synthwave                                                              | 2000s     | Género Musical | Buffy        |
+| YT#3     | Demokratia                                                             | 2013-2015 | Manga          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
