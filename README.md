@@ -246,5 +246,9 @@
 | YT#4     | Gabriel León                                                           | -         | Escritor       | Buffy        |
 | YT#4     | Dominion                                                               | Dominion  | Juego de Mesa  | Tomás        |
 | YT#4     | Sam Fender                                                             | -         | Músico         | Edo          |
+|          |                                                                        |           |                |              |
+| YT#5     | The Ocean Race                                                         | 1973-     | Carrera Yates  | Buffy        |
+| YT#5     | Mickey Mouse Sticker Story                                             | 2018      | Álbum Láminas  | Tomás        |
+| YT#5     | El Tiempo de la Memoria                                                | 2019      | Libro          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
