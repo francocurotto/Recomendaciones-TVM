@@ -242,5 +242,9 @@
 | YT#3     | Tetris Effect                                                          | 2018      | Video Juego    | Tomás        |
 | YT#3     | Synthwave                                                              | 2000s     | Género Musical | Buffy        |
 | YT#3     | Demokratia                                                             | 2013-2015 | Manga          | Edo          |
+|          |                                                                        |           |                |              |
+| YT#4     | Gabriel León                                                           | -         | Escritor       | Buffy        |
+| YT#4     | Dominion                                                               | Dominion  | Juego de Mesa  | Tomás        |
+| YT#4     | Sam Fender                                                             | -         | Músico         | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
