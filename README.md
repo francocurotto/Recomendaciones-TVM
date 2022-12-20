@@ -5,7 +5,7 @@
 | S1E1     | Touching the Void                                                      | 2003      | Película       | Buffy        |
 | S1E1     | Everest                                                                | 2005      | Película       | Buffy        |
 | S1E1     | A Plague Tale: Innocence                                               | 2019      | Video Juego    | Tomás        |
-| S1E1     | The Flinstones (DC)                                                    | 2016      | Comic          | Edo          |
+| S1E1     | The Flinstones (DC)                                                    | 2016      | Cómic          | Edo          |
 |          |                                                                        |           |                |              |
 | S1E2     | Orden Mundial                                                          | 2014      | Libro          | Buffy        |
 | S1E2     | Ni no Kuni                                                             | 2010      | Video Juego    | Tomás        |
@@ -13,7 +13,7 @@
 |          |                                                                        |           |                |              |
 | S1E3     | Home                                                                   | 2009      | Documental     | Buffy        |
 | S1E3     | Crash Team Racing Nitro-Fueled                                         | 2019      | Video Juego    | Tomás        |
-| S1E3     | Scout                                                                  | 1985      | Comic          | Edo          |
+| S1E3     | Scout                                                                  | 1985      | Cómic          | Edo          |
 |          |                                                                        |           |                |              |
 | S1E4     | Breve historia del tiempo                                              | 1988      | Libro          | Buffy        |
 | S1E4     | Inside                                                                 | 2016      | Video Juego    | Tomás        |
@@ -29,7 +29,7 @@
 | S1E6     | Diez Razones para Borrar tus Redes Sociales de Inmediato               | 2018      | Libro          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E1     | Un Veterano de Tres Guerras                                            | 2018      | Libro          | Buffy        |
-| S2E1     | Sandman                                                                | 1989-1996 | Comic          | Tomás        |
+| S2E1     | Sandman                                                                | 1989-1996 | Cómic          | Tomás        |
 | S2E1     | The Boys                                                               | 2019      | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E2     | Fuera de Este Mundo                                                    | 2019      | Festival       | Buffy        |
@@ -45,17 +45,17 @@
 | S2E4     | Breaking Bad: 530 Gramos (de Papel) para Serieadictos No Rehabilitados | 2013      | Libro          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E5     | La Fiesta de las Salchichas                                            | 2016      | Película       | Buffy        |
-| S2E5     | Mister Milagro                                                         | 1962      | Comic          | Tomás        |
-| S2E5     | Heroes en Crisis                                                       | 2018-2019 | Comic          | Tomás        |
+| S2E5     | Mister Milagro                                                         | 1962      | Cómic          | Tomás        |
+| S2E5     | Heroes en Crisis                                                       | 2018-2019 | Cómic          | Tomás        |
 | S2E5     | When They See Us                                                       | 2019      | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E6     | Informe Especial: Los Años que Vivimos en Peligro, 1975-1978           | 2018      | Documental     | Buffy        |
 | S2E6     | Midsommar                                                              | 2019      | Película       | Tomás        |
-| S2E6     | Transmetropolitan                                                      | 1997-2002 | Comic          | Edo          |
+| S2E6     | Transmetropolitan                                                      | 1997-2002 | Cómic          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E9     | Cobra Kai                                                              | 2018      | Serie          | Buffy        |
 | S2E9     | La Lluvia del Lobo                                                     | 2003      | Anime          | Tomás        |
-| S2E9     | Crossed                                                                | 2012-2014 | Comic          | Edo          |
+| S2E9     | Crossed                                                                | 2012-2014 | Cómic          | Edo          |
 |          |                                                                        |           |                |              |
 | Tiny     | 21 Días                                                                | 2013      | Programa       | Buffy        |
 | Tiny     | Hamilton                                                               | 2015      | Musical        | Tomás        |
@@ -66,7 +66,7 @@
 | S2E11    | The Marvelous Mrs. Maisel                                              | 2017      | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E12    | Beirut                                                                 | 2018      | Película       | Buffy        |
-| S2E12    | Batman vol. 08: ¿Qué le sucedió al Cruzado de la Capa?                 | 2009      | Comic          | Tomás        |
+| S2E12    | Batman vol. 08: ¿Qué le sucedió al Cruzado de la Capa?                 | 2009      | Cómic          | Tomás        |
 | S2E12    | ¡No Seas Neandertal! Y Otras Historias de la Evolución Humana          | 2018      | Libro          | Edo          |
 |          |                                                                        |           |                |              |
 | S2E13    | The Spy                                                                | 2019      | Serie          | Buffy        |
@@ -75,7 +75,7 @@
 | S2E13    | Undone                                                                 | 2019-     | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E1     | El Negocio del Dolor                                                   | 2016      | Documental     | Buffy        |
-| S3E1     | Planetary                                                              | 1999-2009 | Comic          | Tomás        |
+| S3E1     | Planetary                                                              | 1999-2009 | Cómic          | Tomás        |
 | S3E1     | Mad Men                                                                | 2007-2015 | Serie          | Edo          |
 |          |                                                                        |           |                |              |
 | S3E2     | Nisman: El Fiscal, La Presidenta, y El Espía                           | 2019      | Documental     | Buffy        |
@@ -106,7 +106,7 @@
 | S3E10    | Westworld                                                              | 2016-     | Serie          | Tomás        |
 | S3E10    | Puedo Cambiar                                                          | 2019      | Show Comedia   | Edo          |
 |          |                                                                        |           |                |              |
-| S3E12    | La Cosa del Pantano (Alan Moore)                                       | 1984      | Comic          | Tomás        |
+| S3E12    | La Cosa del Pantano (Alan Moore)                                       | 1984      | Cómic          | Tomás        |
 | S3E12    | Silicon Valley                                                         | 2014-2019 | Serie          | Edo          |
 | S3E12    | Dreadd                                                                 | 2012      | Película       | Buffy        |
 |          |                                                                        |           |                |              |
@@ -122,7 +122,7 @@
 | S3E15    | Nadie Sabe Que Estoy Aquí                                              | 2020      | Película       | Tomás        |
 | S3E15    | Vuelos de Estorninos                                                   | -         | Videos Youtube | Edo          |
 |          |                                                                        |           |                |              |
-| S3E19    | Black Hammer                                                           | 2016-     | Comic          | Tomás        |
+| S3E19    | Black Hammer                                                           | 2016-     | Cómic          | Tomás        |
 | S3E19    | ¿Dónde Están los Ladrones?                                             | 1998      | Álbum          | Edo          |
 | S3E19    | Greyhound                                                              | 2020      | Película       | Buffy        |
 |          |                                                                        |           |                |              |
@@ -156,7 +156,7 @@
 |          |                                                                        |           |                |              |
 | S4E02    | Loreena McKennitt                                                      | -         | Cantante       | Buffy        |
 | S4E02    | The Visit                                                              | 1991      | Álbum          | Buffy        |
-| S4E02    | El Sheriff de Babilonia                                                | 2015-2017 | Comic          | Tomás        |
+| S4E02    | El Sheriff de Babilonia                                                | 2015-2017 | Cómic          | Tomás        |
 | S4E02    | Tiny Desk                                                              | 2008-     | Conciertos     | Edo          |
 |          |                                                                        |           |                |              |
 | S4E06    | Caso 63                                                                | 2020      | Podcast        | Buffy        |
@@ -250,5 +250,15 @@
 | YT#5     | The Ocean Race                                                         | 1973-     | Carrera Yates  | Buffy        |
 | YT#5     | Mickey Mouse Sticker Story                                             | 2018      | Álbum Láminas  | Tomás        |
 | YT#5     | El Tiempo de la Memoria                                                | 2019      | Libro          | Edo          |
+|          |                                                                        |           |                |              |
+| YT#6     | Endurance La Legendaria Expedición de Shakelton                        | 2009      | Cómic          | Buffy        |
+| YT#6     | Avena                                                                  | -         | Alimento       | Edo          |
+| YT#6     | 7 Wonders                                                              | 2010      | Juego de Mesa  | Tomás        |
+|          |                                                                        |           |                |              |
+| YT#7     | Genius                                                                 | 2017-     | Serie          | Buffy        |
+| YT#7     | Chainsaw Man                                                           | 2018-     | Manga          | Tomás        |
+| YT#7     | Dahmer - Monster: The Jeffrey Dahmer Story                             | 2022      | Serie          | Edo          |
+| YT#7     | La Sabiduría de los Psicópatas                                         | 2012      | Libro          | Edo          |
+| YT#7     | Psicópatas Seriales                                                    | 2009      | Libro          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
