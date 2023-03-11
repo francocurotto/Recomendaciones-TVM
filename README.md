@@ -260,5 +260,9 @@
 | YT#7     | Dahmer - Monster: The Jeffrey Dahmer Story                             | 2022      | Serie          | Edo          |
 | YT#7     | La Sabiduría de los Psicópatas                                         | 2012      | Libro          | Edo          |
 | YT#7     | Psicópatas Seriales                                                    | 2009      | Libro          | Edo          |
+|          |                                                                        |           |                |              |
+| YT#8     | Unstable Unicorns                                                      | 2017      | Juego Cartas   | Buffy        |
+| YT#8     | Akira                                                                  | 1982-1990 | Manga          | Tomás        |
+| YT#8     | Words of Wonder: Crossword                                             | 2018      | Juego Móvil    | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
