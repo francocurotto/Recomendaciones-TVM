@@ -264,5 +264,9 @@
 | YT#8     | Unstable Unicorns                                                      | 2017      | Juego Cartas   | Buffy        |
 | YT#8     | Akira                                                                  | 1982-1990 | Manga          | Tomás        |
 | YT#8     | Words of Wonder: Crossword                                             | 2018      | Juego Móvil    | Edo          |
+|          |                                                                        |           |                |              |
+| S6E31    | Sicario                                                                | 2015      | Película       | Buffy        |
+| S6E31    | Final Fantasy XVI                                                      | 2023      | Video Juego    | Tomás        |
+| S6E31    | Invasion                                                               | 2021-     | Serie          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
