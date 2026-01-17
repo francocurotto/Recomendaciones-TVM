@@ -268,5 +268,7 @@
 | S6E31    | Sicario                                                                | 2015      | Película       | Buffy        |
 | S6E31    | Final Fantasy XVI                                                      | 2023      | Video Juego    | Tomás        |
 | S6E31    | Invasion                                                               | 2021-     | Serie          | Edo          |
+|          |                                                                        |           |                |              |
+| S8E10    | Cadáver Exquisito                                                      | 2018      | Libro          | Edo          |
         
 *: Ya había sido recomendado en el Tiny Show
